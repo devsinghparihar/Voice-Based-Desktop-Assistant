@@ -1,0 +1,52 @@
+#sub-heading{
+    
+    font-family: 'Samarkan', sans-serif;
+    
+                                                
+}
+#micBtn{
+    background: none;
+    transition-property: all;
+    transition-duration: 0.8s;
+    transition-timing-function: ease-in-out;
+    
+
+}
+#micBtn:hover {
+    transform: rotate(360deg);
+    
+    
+
+}
+.btn-default{
+    background: #282a36;
+    color: #ff79c6;
+    border-color: #ff79c6;
+}
+.btn-default:hover{
+    background: #ff79c6;
+    color: #f8f8f2;
+
+
+}
+
+.modal-title{
+    color: black;
+    
+}
+.modal-body{
+    color: black;
+    
+}
+#statusBar{
+   padding-left: 8%; 
+   font-family: 'Trivial', sans-serif;
+   font-size: 1.5em;
+                                                
+                                                
+}
+#mainHeading{
+    font-family: 'Marelan', sans-serif;
+    font-size: 4em;                                          
+}
+
